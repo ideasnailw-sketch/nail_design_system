@@ -1,0 +1,25 @@
+{
+  "social_platforms": [
+    {"name": "Instagram", "url": "https://www.instagram.com/explore/tags/pressonnails/", "type": "social"},
+    {"name": "TikTok", "url": "https://www.tiktok.com/tag/pressonnails", "type": "social"},
+    {"name": "Pinterest", "url": "https://www.pinterest.com/search/pins/?q=press%20on%20nails", "type": "social"},
+    {"name": "Google Images", "url": "https://www.google.com/search?tbm=isch&q=press+on+nails+trend", "type": "search"}
+  ],
+  "brands": [
+    {"name": "KISS", "url": "https://www.kissusa.com/"},
+    {"name": "imPRESS", "url": "https://www.impressmanicure.com/"},
+    {"name": "Glamnetic", "url": "https://www.glamnetic.com/"},
+    {"name": "Olive & June", "url": "https://oliveandjune.com/"},
+    {"name": "BTArtbox", "url": "https://www.btartboxnails.com/"},
+    {"name": "Static Nails", "url": "https://staticnails.com/"},
+    {"name": "Beetles Gel", "url": "https://www.beetlesgel.com/"},
+    {"name": "Dashing Diva", "url": "https://dashingdiva.com/"},
+    {"name": "Red Aspen", "url": "https://redaspenlove.com/"},
+    {"name": "Lost Angels Beauty", "url": "https://lostangelsbeauty.com/"},
+    {"name": "Color Street", "url": "https://www.colorstreet.com/"},
+    {"name": "OPI", "url": "https://www.opi.com/"},
+    {"name": "Essie", "url": "https://www.essie.com/"},
+    {"name": "Ebin New York", "url": "https://www.ebinnewyork.com/"},
+    {"name": "Chillhouse", "url": "https://chillhouse.com/"}
+  ]
+}
