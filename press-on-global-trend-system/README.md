@@ -1,31 +1,25 @@
-# press-on-global-trend-system
+# press-on-global-trend-system v1.1
 
-全球穿戴甲新品趋势监控与设计裂变系统 MVP（结构化数据版）。
+全球穿戴甲新品趋势监控与设计裂变系统（离线可运行）。
 
-## 目录结构
+## v1.1 升级点
 
-- `data/source_links.json` 数据源链接
-- `data/sample_products.csv` 30条样本SKU
-- `trend_dictionary.json` 趋势标签中英文词典
-- `extract_nail_features.py` 特征提取
-- `score_trends.py` 趋势打分
-- `generate_design_extensions.py` 设计裂变
-- `generate_packaging_extensions.py` 包装裂变
-- `generate_prompts.py` Midjourney/Runway提示词
-- `generate_dashboard.py` 生成可视化页面
-- `main.py` 一键运行
-- `output/` 输出目录
+- 完整中文字段产品表（24个核心字段）。
+- 自动评分：趋势评分、商业转化评分、生产难度评分、包装匹配评分、视频表现评分、综合开发优先级。
+- 多维筛选：搜索、地区、主色、工艺、甲型、包装风格、优先级标签。
+- 行内「生成新 SKU 方案」展开卡，内含3类方案：稳定复购款、社媒吸睛款、高级包装款。
+- 每个英文提示词支持一键复制。
 
-## Windows CMD 运行
+## 运行
 
-```bat
-cd /d D:\path\to\press-on-global-trend-system
+```bash
+cd press-on-global-trend-system
 python main.py
 ```
 
-运行后打开：
+打开：
 
-- `output\press_on_global_trend_system.html`
+- `output/press_on_global_trend_system.html`
 
 ## 输出文件
 
