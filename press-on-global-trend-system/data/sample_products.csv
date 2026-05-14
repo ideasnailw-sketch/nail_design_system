@@ -1,0 +1,31 @@
+product_id,brand,product_name,region,price_usd,color_tags,technique_tags,shape_tags,length_tags,pattern_tags,style_tags,scene_tags,packaging_tags,source
+P001,Glamnetic,Milky French Chrome,North America,21.99,"milk white;silver","french;chrome","almond","medium","minimal line","clean girl;quiet luxury","office;daily","gift box;minimal typography",Instagram
+P002,KISS,Cherry Jelly Pop,North America,9.99,"cherry red;transparent pink","jelly","square","short","solid color","y2k;kawaii","party;daily","blister pack;colorful",TikTok
+P003,imPRESS,Nude Blush Aura,North America,8.99,"nude;blush pink","aura","oval","short","gradient","clean girl","office;dating","soft-touch box;pastel",Pinterest
+P004,Olive & June,Matcha Glazed,North America,12.00,"matcha green;pearl","glazed","squoval","short","solid color","natural;wellness","daily;vacation","recyclable box;earth tone",Brand Site
+P005,BTArtbox,Galaxy Cat Eye,Asia,14.50,"navy;violet","cat eye;magnetic","coffin","long","galaxy swirl","futuristic","party;festival","holographic box;window",TikTok
+P006,Static Nails,Mocha Marble Luxe,North America,18.00,"mocha brown;cream","marble","almond","medium","stone texture","quiet luxury","office;wedding","matte box;gold foil",Brand Site
+P007,Beetles Gel,Sunset Airbrush,Europe,11.99,"orange;pink","airbrush","stiletto","long","sunset gradient","editorial","vacation;festival","bold sleeve;illustration",Instagram
+P008,Dashing Diva,Blue Porcelain,Asia,10.99,"cobalt blue;white","hand painted","round","short","floral porcelain","vintage","daily;tea party","tin case;heritage icon",Pinterest
+P009,Red Aspen,Latte Micro French,North America,16.00,"latte beige;white","micro french","almond","medium","minimal tip","clean girl","office;daily","drawer box;neutral",Brand Site
+P010,Lost Angels Beauty,Neon Flame Tips,North America,19.00,"neon orange;black","flame art","coffin","long","flame","punk;y2k","concert;party","spray texture box;sticker",Instagram
+P011,Color Street,Rose Quartz Vein,North America,13.00,"rose pink;white","vein stone","oval","short","quartz texture","romantic","dating;wedding","foil pouch;gem icon",Brand Site
+P012,OPI,Mermaid Glimmer,Global,15.00,"aqua;iridescent","glitter;glazed","almond","medium","sparkle scale","mermaid","vacation;party","ocean gradient box;emboss",Brand Site
+P013,Essie,Graphite Minimal,Europe,12.00,"graphite gray;silver","metallic","square","short","solid color","minimalist","office;daily","mono box;line art",Brand Site
+P014,Ebin New York,Bubblegum Charms,North America,9.50,"bubblegum pink;white","3d charms","round","short","heart charms","kawaii;y2k","dating;party","transparent lid;emoji",TikTok
+P015,Chillhouse,Cloud Therapy,North America,16.00,"sky blue;white","airbrush;cloud art","squoval","short","cloud","wellness","daily;weekend","paper tray;calm copy",Brand Site
+P016,Glamnetic,Espresso Chrome,Europe,22.00,"espresso brown;gold","chrome","almond","medium","solid color","quiet luxury","office;night out","magnetic box;foil",Instagram
+P017,KISS,Lilac Bloom,Asia,10.49,"lilac;green","floral print","oval","medium","small flower","romantic","daily;spring event","pastel blister;botanical",Pinterest
+P018,imPRESS,Peach Fuzz Aura,Global,9.49,"peach;cream","aura;gloss","round","short","soft gradient","clean girl","daily;office","minimal blister;peach label",TikTok
+P019,Olive & June,Terracotta Check,North America,12.50,"terracotta;cream","checkerboard","square","short","check pattern","retro","weekend;festival","kraft box;vintage badge",Instagram
+P020,BTArtbox,Silver Drip Mirror,Global,15.99,"silver;clear","mirror;drip","stiletto","long","drip","futuristic","party;fashion show","mirror carton;window",Pinterest
+P021,Static Nails,Champagne Pearl Veil,North America,18.50,"champagne;pearl white","pearlescent","oval","medium","soft shimmer","bridal;quiet luxury","wedding;banquet","ivory box;ribbon",Brand Site
+P022,Beetles Gel,Midnight Leopard,Europe,10.99,"black;brown","animal print","coffin","medium","leopard","bold","party;night out","contrast box;animal motif",TikTok
+P023,Dashing Diva,Sakura Glass,Asia,11.49,"sakura pink;clear","glass;jelly","almond","short","petal confetti","romantic;kawaii","dating;spring","clear case;floral",Brand Site
+P024,Red Aspen,Denim Star Dust,North America,17.00,"denim blue;silver","glitter","square","medium","star pattern","y2k","concert;daily","zip bag;star icon",Instagram
+P025,Lost Angels Beauty,Poison Ivy Green,Europe,20.00,"forest green;black","smoke marble","stiletto","long","smoke","gothic","party;halloween","dark box;uv ink",Brand Site
+P026,Color Street,Vanilla Silk French,Global,13.50,"vanilla;white","french;silk finish","squoval","short","micro tip","clean girl","office;wedding","soft pouch;minimal",Pinterest
+P027,OPI,Candy Chrome Mix,Global,15.50,"candy pink;silver","chrome;gradient","coffin","medium","ombré","y2k;fashion","party;weekend","holo sleeve;pop type",TikTok
+P028,Essie,Olive Moss Matte,Europe,12.49,"olive green;khaki","matte","round","short","solid color","natural","daily;autumn","eco box;matte print",Brand Site
+P029,Ebin New York,Ruby Velvet Bow,North America,10.50,"ruby red;black","velvet;3d bow","almond","medium","bow motif","romantic;holiday","dating;christmas","gift box;bow diecut",Instagram
+P030,Chillhouse,Lemon Spritz Pop,Global,16.50,"lemon yellow;white","swirl art","oval","short","swirl","playful","vacation;summer","bright carton;fruit icon",Pinterest

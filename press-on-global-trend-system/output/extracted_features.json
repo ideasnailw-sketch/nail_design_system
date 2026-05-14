@@ -1,0 +1,2118 @@
+[
+  {
+    "product_id": "P001",
+    "brand": "Glamnetic",
+    "product_name": "Milky French Chrome",
+    "region": "North America",
+    "price_usd": 21.99,
+    "color": [
+      {
+        "en": "milk white",
+        "zh": "奶白"
+      },
+      {
+        "en": "silver",
+        "zh": "银色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "french",
+        "zh": "法式"
+      },
+      {
+        "en": "chrome",
+        "zh": "镜面"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "minimal line",
+        "zh": "极简线条"
+      }
+    ],
+    "style": [
+      {
+        "en": "clean girl",
+        "zh": "清透干净"
+      },
+      {
+        "en": "quiet luxury",
+        "zh": "静奢"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "daily",
+        "zh": "日常"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "gift box",
+        "zh": "礼盒"
+      },
+      {
+        "en": "minimal typography",
+        "zh": "极简字排"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P002",
+    "brand": "KISS",
+    "product_name": "Cherry Jelly Pop",
+    "region": "North America",
+    "price_usd": 9.99,
+    "color": [
+      {
+        "en": "cherry red",
+        "zh": "樱桃红"
+      },
+      {
+        "en": "transparent pink",
+        "zh": "透粉"
+      }
+    ],
+    "technique": [
+      {
+        "en": "jelly",
+        "zh": "果冻"
+      }
+    ],
+    "shape": [
+      {
+        "en": "square",
+        "zh": "方形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "solid color",
+        "zh": "纯色"
+      }
+    ],
+    "style": [
+      {
+        "en": "y2k",
+        "zh": "Y2K"
+      },
+      {
+        "en": "kawaii",
+        "zh": "可爱"
+      }
+    ],
+    "scene": [
+      {
+        "en": "party",
+        "zh": "派对"
+      },
+      {
+        "en": "daily",
+        "zh": "日常"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "blister pack",
+        "zh": "吸塑卡"
+      },
+      {
+        "en": "colorful",
+        "zh": "高彩"
+      }
+    ],
+    "source": "TikTok"
+  },
+  {
+    "product_id": "P003",
+    "brand": "imPRESS",
+    "product_name": "Nude Blush Aura",
+    "region": "North America",
+    "price_usd": 8.99,
+    "color": [
+      {
+        "en": "nude",
+        "zh": "裸色"
+      },
+      {
+        "en": "blush pink",
+        "zh": "腮红粉"
+      }
+    ],
+    "technique": [
+      {
+        "en": "aura",
+        "zh": "光晕"
+      }
+    ],
+    "shape": [
+      {
+        "en": "oval",
+        "zh": "椭圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "gradient",
+        "zh": "渐变"
+      }
+    ],
+    "style": [
+      {
+        "en": "clean girl",
+        "zh": "清透干净"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "dating",
+        "zh": "约会"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "soft-touch box",
+        "zh": "肤感盒"
+      },
+      {
+        "en": "pastel",
+        "zh": "马卡龙"
+      }
+    ],
+    "source": "Pinterest"
+  },
+  {
+    "product_id": "P004",
+    "brand": "Olive & June",
+    "product_name": "Matcha Glazed",
+    "region": "North America",
+    "price_usd": 12.0,
+    "color": [
+      {
+        "en": "matcha green",
+        "zh": "抹茶绿"
+      },
+      {
+        "en": "pearl",
+        "zh": "珠光"
+      }
+    ],
+    "technique": [
+      {
+        "en": "glazed",
+        "zh": "釉面"
+      }
+    ],
+    "shape": [
+      {
+        "en": "squoval",
+        "zh": "方圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "solid color",
+        "zh": "纯色"
+      }
+    ],
+    "style": [
+      {
+        "en": "natural",
+        "zh": "自然"
+      },
+      {
+        "en": "wellness",
+        "zh": "疗愈"
+      }
+    ],
+    "scene": [
+      {
+        "en": "daily",
+        "zh": "日常"
+      },
+      {
+        "en": "vacation",
+        "zh": "度假"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "recyclable box",
+        "zh": "可回收盒"
+      },
+      {
+        "en": "earth tone",
+        "zh": "大地色"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P005",
+    "brand": "BTArtbox",
+    "product_name": "Galaxy Cat Eye",
+    "region": "Asia",
+    "price_usd": 14.5,
+    "color": [
+      {
+        "en": "navy",
+        "zh": "海军蓝"
+      },
+      {
+        "en": "violet",
+        "zh": "紫罗兰"
+      }
+    ],
+    "technique": [
+      {
+        "en": "cat eye",
+        "zh": "猫眼"
+      },
+      {
+        "en": "magnetic",
+        "zh": "磁吸"
+      }
+    ],
+    "shape": [
+      {
+        "en": "coffin",
+        "zh": "棺形"
+      }
+    ],
+    "length": [
+      {
+        "en": "long",
+        "zh": "长"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "galaxy swirl",
+        "zh": "银河旋涡"
+      }
+    ],
+    "style": [
+      {
+        "en": "futuristic",
+        "zh": "未来感"
+      }
+    ],
+    "scene": [
+      {
+        "en": "party",
+        "zh": "派对"
+      },
+      {
+        "en": "festival",
+        "zh": "音乐节"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "holographic box",
+        "zh": "镭射盒"
+      },
+      {
+        "en": "window",
+        "zh": "开窗"
+      }
+    ],
+    "source": "TikTok"
+  },
+  {
+    "product_id": "P006",
+    "brand": "Static Nails",
+    "product_name": "Mocha Marble Luxe",
+    "region": "North America",
+    "price_usd": 18.0,
+    "color": [
+      {
+        "en": "mocha brown",
+        "zh": "摩卡棕"
+      },
+      {
+        "en": "cream",
+        "zh": "cream"
+      }
+    ],
+    "technique": [
+      {
+        "en": "marble",
+        "zh": "大理石"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "stone texture",
+        "zh": "石纹肌理"
+      }
+    ],
+    "style": [
+      {
+        "en": "quiet luxury",
+        "zh": "静奢"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "wedding",
+        "zh": "婚礼"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "matte box",
+        "zh": "哑光盒"
+      },
+      {
+        "en": "gold foil",
+        "zh": "烫金"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P007",
+    "brand": "Beetles Gel",
+    "product_name": "Sunset Airbrush",
+    "region": "Europe",
+    "price_usd": 11.99,
+    "color": [
+      {
+        "en": "orange",
+        "zh": "橘色"
+      },
+      {
+        "en": "pink",
+        "zh": "pink"
+      }
+    ],
+    "technique": [
+      {
+        "en": "airbrush",
+        "zh": "喷枪"
+      }
+    ],
+    "shape": [
+      {
+        "en": "stiletto",
+        "zh": "尖锥"
+      }
+    ],
+    "length": [
+      {
+        "en": "long",
+        "zh": "长"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "sunset gradient",
+        "zh": "落日渐层"
+      }
+    ],
+    "style": [
+      {
+        "en": "editorial",
+        "zh": "杂志感"
+      }
+    ],
+    "scene": [
+      {
+        "en": "vacation",
+        "zh": "度假"
+      },
+      {
+        "en": "festival",
+        "zh": "音乐节"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "bold sleeve",
+        "zh": "撞色套筒"
+      },
+      {
+        "en": "illustration",
+        "zh": "插画"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P008",
+    "brand": "Dashing Diva",
+    "product_name": "Blue Porcelain",
+    "region": "Asia",
+    "price_usd": 10.99,
+    "color": [
+      {
+        "en": "cobalt blue",
+        "zh": "钴蓝"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "hand painted",
+        "zh": "手绘"
+      }
+    ],
+    "shape": [
+      {
+        "en": "round",
+        "zh": "圆形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "floral porcelain",
+        "zh": "青花瓷花"
+      }
+    ],
+    "style": [
+      {
+        "en": "vintage",
+        "zh": "复古"
+      }
+    ],
+    "scene": [
+      {
+        "en": "daily",
+        "zh": "日常"
+      },
+      {
+        "en": "tea party",
+        "zh": "下午茶"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "tin case",
+        "zh": "金属罐"
+      },
+      {
+        "en": "heritage icon",
+        "zh": "复古徽章"
+      }
+    ],
+    "source": "Pinterest"
+  },
+  {
+    "product_id": "P009",
+    "brand": "Red Aspen",
+    "product_name": "Latte Micro French",
+    "region": "North America",
+    "price_usd": 16.0,
+    "color": [
+      {
+        "en": "latte beige",
+        "zh": "拿铁米"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "micro french",
+        "zh": "微法式"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "minimal tip",
+        "zh": "极细边"
+      }
+    ],
+    "style": [
+      {
+        "en": "clean girl",
+        "zh": "清透干净"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "daily",
+        "zh": "日常"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "drawer box",
+        "zh": "抽屉盒"
+      },
+      {
+        "en": "neutral",
+        "zh": "中性色"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P010",
+    "brand": "Lost Angels Beauty",
+    "product_name": "Neon Flame Tips",
+    "region": "North America",
+    "price_usd": 19.0,
+    "color": [
+      {
+        "en": "neon orange",
+        "zh": "荧光橙"
+      },
+      {
+        "en": "black",
+        "zh": "黑色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "flame art",
+        "zh": "火焰绘"
+      }
+    ],
+    "shape": [
+      {
+        "en": "coffin",
+        "zh": "棺形"
+      }
+    ],
+    "length": [
+      {
+        "en": "long",
+        "zh": "长"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "flame",
+        "zh": "火焰"
+      }
+    ],
+    "style": [
+      {
+        "en": "punk",
+        "zh": "朋克"
+      },
+      {
+        "en": "y2k",
+        "zh": "Y2K"
+      }
+    ],
+    "scene": [
+      {
+        "en": "concert",
+        "zh": "演唱会"
+      },
+      {
+        "en": "party",
+        "zh": "派对"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "spray texture box",
+        "zh": "喷绘质感"
+      },
+      {
+        "en": "sticker",
+        "zh": "贴纸元素"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P011",
+    "brand": "Color Street",
+    "product_name": "Rose Quartz Vein",
+    "region": "North America",
+    "price_usd": 13.0,
+    "color": [
+      {
+        "en": "rose pink",
+        "zh": "玫瑰粉"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "vein stone",
+        "zh": "石纹"
+      }
+    ],
+    "shape": [
+      {
+        "en": "oval",
+        "zh": "椭圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "quartz texture",
+        "zh": "石英纹"
+      }
+    ],
+    "style": [
+      {
+        "en": "romantic",
+        "zh": "浪漫"
+      }
+    ],
+    "scene": [
+      {
+        "en": "dating",
+        "zh": "约会"
+      },
+      {
+        "en": "wedding",
+        "zh": "婚礼"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "foil pouch",
+        "zh": "foil pouch"
+      },
+      {
+        "en": "gem icon",
+        "zh": "gem icon"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P012",
+    "brand": "OPI",
+    "product_name": "Mermaid Glimmer",
+    "region": "Global",
+    "price_usd": 15.0,
+    "color": [
+      {
+        "en": "aqua",
+        "zh": "海蓝"
+      },
+      {
+        "en": "iridescent",
+        "zh": "iridescent"
+      }
+    ],
+    "technique": [
+      {
+        "en": "glitter",
+        "zh": "闪粉"
+      },
+      {
+        "en": "glazed",
+        "zh": "釉面"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "sparkle scale",
+        "zh": "闪鳞"
+      }
+    ],
+    "style": [
+      {
+        "en": "mermaid",
+        "zh": "人鱼"
+      }
+    ],
+    "scene": [
+      {
+        "en": "vacation",
+        "zh": "度假"
+      },
+      {
+        "en": "party",
+        "zh": "派对"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "ocean gradient box",
+        "zh": "ocean gradient box"
+      },
+      {
+        "en": "emboss",
+        "zh": "emboss"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P013",
+    "brand": "Essie",
+    "product_name": "Graphite Minimal",
+    "region": "Europe",
+    "price_usd": 12.0,
+    "color": [
+      {
+        "en": "graphite gray",
+        "zh": "石墨灰"
+      },
+      {
+        "en": "silver",
+        "zh": "银色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "metallic",
+        "zh": "金属"
+      }
+    ],
+    "shape": [
+      {
+        "en": "square",
+        "zh": "方形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "solid color",
+        "zh": "纯色"
+      }
+    ],
+    "style": [
+      {
+        "en": "minimalist",
+        "zh": "极简"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "daily",
+        "zh": "日常"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "mono box",
+        "zh": "mono box"
+      },
+      {
+        "en": "line art",
+        "zh": "line art"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P014",
+    "brand": "Ebin New York",
+    "product_name": "Bubblegum Charms",
+    "region": "North America",
+    "price_usd": 9.5,
+    "color": [
+      {
+        "en": "bubblegum pink",
+        "zh": "泡泡糖粉"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "3d charms",
+        "zh": "3D饰件"
+      }
+    ],
+    "shape": [
+      {
+        "en": "round",
+        "zh": "圆形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "heart charms",
+        "zh": "爱心饰件"
+      }
+    ],
+    "style": [
+      {
+        "en": "kawaii",
+        "zh": "可爱"
+      },
+      {
+        "en": "y2k",
+        "zh": "Y2K"
+      }
+    ],
+    "scene": [
+      {
+        "en": "dating",
+        "zh": "约会"
+      },
+      {
+        "en": "party",
+        "zh": "派对"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "transparent lid",
+        "zh": "transparent lid"
+      },
+      {
+        "en": "emoji",
+        "zh": "emoji"
+      }
+    ],
+    "source": "TikTok"
+  },
+  {
+    "product_id": "P015",
+    "brand": "Chillhouse",
+    "product_name": "Cloud Therapy",
+    "region": "North America",
+    "price_usd": 16.0,
+    "color": [
+      {
+        "en": "sky blue",
+        "zh": "天蓝"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "airbrush",
+        "zh": "喷枪"
+      },
+      {
+        "en": "cloud art",
+        "zh": "云朵绘"
+      }
+    ],
+    "shape": [
+      {
+        "en": "squoval",
+        "zh": "方圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "cloud",
+        "zh": "云朵"
+      }
+    ],
+    "style": [
+      {
+        "en": "wellness",
+        "zh": "疗愈"
+      }
+    ],
+    "scene": [
+      {
+        "en": "daily",
+        "zh": "日常"
+      },
+      {
+        "en": "weekend",
+        "zh": "周末"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "paper tray",
+        "zh": "paper tray"
+      },
+      {
+        "en": "calm copy",
+        "zh": "calm copy"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P016",
+    "brand": "Glamnetic",
+    "product_name": "Espresso Chrome",
+    "region": "Europe",
+    "price_usd": 22.0,
+    "color": [
+      {
+        "en": "espresso brown",
+        "zh": "浓咖棕"
+      },
+      {
+        "en": "gold",
+        "zh": "gold"
+      }
+    ],
+    "technique": [
+      {
+        "en": "chrome",
+        "zh": "镜面"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "solid color",
+        "zh": "纯色"
+      }
+    ],
+    "style": [
+      {
+        "en": "quiet luxury",
+        "zh": "静奢"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "night out",
+        "zh": "夜出"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "magnetic box",
+        "zh": "magnetic box"
+      },
+      {
+        "en": "foil",
+        "zh": "foil"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P017",
+    "brand": "KISS",
+    "product_name": "Lilac Bloom",
+    "region": "Asia",
+    "price_usd": 10.49,
+    "color": [
+      {
+        "en": "lilac",
+        "zh": "丁香紫"
+      },
+      {
+        "en": "green",
+        "zh": "green"
+      }
+    ],
+    "technique": [
+      {
+        "en": "floral print",
+        "zh": "印花花卉"
+      }
+    ],
+    "shape": [
+      {
+        "en": "oval",
+        "zh": "椭圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "small flower",
+        "zh": "小花"
+      }
+    ],
+    "style": [
+      {
+        "en": "romantic",
+        "zh": "浪漫"
+      }
+    ],
+    "scene": [
+      {
+        "en": "daily",
+        "zh": "日常"
+      },
+      {
+        "en": "spring event",
+        "zh": "spring event"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "pastel blister",
+        "zh": "pastel blister"
+      },
+      {
+        "en": "botanical",
+        "zh": "botanical"
+      }
+    ],
+    "source": "Pinterest"
+  },
+  {
+    "product_id": "P018",
+    "brand": "imPRESS",
+    "product_name": "Peach Fuzz Aura",
+    "region": "Global",
+    "price_usd": 9.49,
+    "color": [
+      {
+        "en": "peach",
+        "zh": "蜜桃"
+      },
+      {
+        "en": "cream",
+        "zh": "cream"
+      }
+    ],
+    "technique": [
+      {
+        "en": "aura",
+        "zh": "光晕"
+      },
+      {
+        "en": "gloss",
+        "zh": "gloss"
+      }
+    ],
+    "shape": [
+      {
+        "en": "round",
+        "zh": "圆形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "soft gradient",
+        "zh": "soft gradient"
+      }
+    ],
+    "style": [
+      {
+        "en": "clean girl",
+        "zh": "清透干净"
+      }
+    ],
+    "scene": [
+      {
+        "en": "daily",
+        "zh": "日常"
+      },
+      {
+        "en": "office",
+        "zh": "通勤"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "minimal blister",
+        "zh": "minimal blister"
+      },
+      {
+        "en": "peach label",
+        "zh": "peach label"
+      }
+    ],
+    "source": "TikTok"
+  },
+  {
+    "product_id": "P019",
+    "brand": "Olive & June",
+    "product_name": "Terracotta Check",
+    "region": "North America",
+    "price_usd": 12.5,
+    "color": [
+      {
+        "en": "terracotta",
+        "zh": "陶土色"
+      },
+      {
+        "en": "cream",
+        "zh": "cream"
+      }
+    ],
+    "technique": [
+      {
+        "en": "checkerboard",
+        "zh": "棋盘格"
+      }
+    ],
+    "shape": [
+      {
+        "en": "square",
+        "zh": "方形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "check pattern",
+        "zh": "格纹"
+      }
+    ],
+    "style": [
+      {
+        "en": "retro",
+        "zh": "复古潮"
+      }
+    ],
+    "scene": [
+      {
+        "en": "weekend",
+        "zh": "周末"
+      },
+      {
+        "en": "festival",
+        "zh": "音乐节"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "kraft box",
+        "zh": "kraft box"
+      },
+      {
+        "en": "vintage badge",
+        "zh": "vintage badge"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P020",
+    "brand": "BTArtbox",
+    "product_name": "Silver Drip Mirror",
+    "region": "Global",
+    "price_usd": 15.99,
+    "color": [
+      {
+        "en": "silver",
+        "zh": "银色"
+      },
+      {
+        "en": "clear",
+        "zh": "clear"
+      }
+    ],
+    "technique": [
+      {
+        "en": "mirror",
+        "zh": "镜面反光"
+      },
+      {
+        "en": "drip",
+        "zh": "滴胶"
+      }
+    ],
+    "shape": [
+      {
+        "en": "stiletto",
+        "zh": "尖锥"
+      }
+    ],
+    "length": [
+      {
+        "en": "long",
+        "zh": "长"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "drip",
+        "zh": "滴落"
+      }
+    ],
+    "style": [
+      {
+        "en": "futuristic",
+        "zh": "未来感"
+      }
+    ],
+    "scene": [
+      {
+        "en": "party",
+        "zh": "派对"
+      },
+      {
+        "en": "fashion show",
+        "zh": "秀场"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "mirror carton",
+        "zh": "mirror carton"
+      },
+      {
+        "en": "window",
+        "zh": "开窗"
+      }
+    ],
+    "source": "Pinterest"
+  },
+  {
+    "product_id": "P021",
+    "brand": "Static Nails",
+    "product_name": "Champagne Pearl Veil",
+    "region": "North America",
+    "price_usd": 18.5,
+    "color": [
+      {
+        "en": "champagne",
+        "zh": "香槟色"
+      },
+      {
+        "en": "pearl white",
+        "zh": "pearl white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "pearlescent",
+        "zh": "珠贝光"
+      }
+    ],
+    "shape": [
+      {
+        "en": "oval",
+        "zh": "椭圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "soft shimmer",
+        "zh": "柔光闪"
+      }
+    ],
+    "style": [
+      {
+        "en": "bridal",
+        "zh": "新娘"
+      },
+      {
+        "en": "quiet luxury",
+        "zh": "静奢"
+      }
+    ],
+    "scene": [
+      {
+        "en": "wedding",
+        "zh": "婚礼"
+      },
+      {
+        "en": "banquet",
+        "zh": "宴会"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "ivory box",
+        "zh": "ivory box"
+      },
+      {
+        "en": "ribbon",
+        "zh": "ribbon"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P022",
+    "brand": "Beetles Gel",
+    "product_name": "Midnight Leopard",
+    "region": "Europe",
+    "price_usd": 10.99,
+    "color": [
+      {
+        "en": "black",
+        "zh": "黑色"
+      },
+      {
+        "en": "brown",
+        "zh": "brown"
+      }
+    ],
+    "technique": [
+      {
+        "en": "animal print",
+        "zh": "动物纹"
+      }
+    ],
+    "shape": [
+      {
+        "en": "coffin",
+        "zh": "棺形"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "leopard",
+        "zh": "豹纹"
+      }
+    ],
+    "style": [
+      {
+        "en": "bold",
+        "zh": "大胆"
+      }
+    ],
+    "scene": [
+      {
+        "en": "party",
+        "zh": "派对"
+      },
+      {
+        "en": "night out",
+        "zh": "夜出"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "contrast box",
+        "zh": "contrast box"
+      },
+      {
+        "en": "animal motif",
+        "zh": "animal motif"
+      }
+    ],
+    "source": "TikTok"
+  },
+  {
+    "product_id": "P023",
+    "brand": "Dashing Diva",
+    "product_name": "Sakura Glass",
+    "region": "Asia",
+    "price_usd": 11.49,
+    "color": [
+      {
+        "en": "sakura pink",
+        "zh": "sakura pink"
+      },
+      {
+        "en": "clear",
+        "zh": "clear"
+      }
+    ],
+    "technique": [
+      {
+        "en": "glass",
+        "zh": "玻璃感"
+      },
+      {
+        "en": "jelly",
+        "zh": "果冻"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "petal confetti",
+        "zh": "花瓣碎"
+      }
+    ],
+    "style": [
+      {
+        "en": "romantic",
+        "zh": "浪漫"
+      },
+      {
+        "en": "kawaii",
+        "zh": "可爱"
+      }
+    ],
+    "scene": [
+      {
+        "en": "dating",
+        "zh": "约会"
+      },
+      {
+        "en": "spring",
+        "zh": "春季"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "clear case",
+        "zh": "clear case"
+      },
+      {
+        "en": "floral",
+        "zh": "floral"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P024",
+    "brand": "Red Aspen",
+    "product_name": "Denim Star Dust",
+    "region": "North America",
+    "price_usd": 17.0,
+    "color": [
+      {
+        "en": "denim blue",
+        "zh": "牛仔蓝"
+      },
+      {
+        "en": "silver",
+        "zh": "银色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "glitter",
+        "zh": "闪粉"
+      }
+    ],
+    "shape": [
+      {
+        "en": "square",
+        "zh": "方形"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "star pattern",
+        "zh": "星星"
+      }
+    ],
+    "style": [
+      {
+        "en": "y2k",
+        "zh": "Y2K"
+      }
+    ],
+    "scene": [
+      {
+        "en": "concert",
+        "zh": "演唱会"
+      },
+      {
+        "en": "daily",
+        "zh": "日常"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "zip bag",
+        "zh": "zip bag"
+      },
+      {
+        "en": "star icon",
+        "zh": "star icon"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P025",
+    "brand": "Lost Angels Beauty",
+    "product_name": "Poison Ivy Green",
+    "region": "Europe",
+    "price_usd": 20.0,
+    "color": [
+      {
+        "en": "forest green",
+        "zh": "森林绿"
+      },
+      {
+        "en": "black",
+        "zh": "黑色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "smoke marble",
+        "zh": "烟熏纹"
+      }
+    ],
+    "shape": [
+      {
+        "en": "stiletto",
+        "zh": "尖锥"
+      }
+    ],
+    "length": [
+      {
+        "en": "long",
+        "zh": "长"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "smoke",
+        "zh": "烟雾"
+      }
+    ],
+    "style": [
+      {
+        "en": "gothic",
+        "zh": "哥特"
+      }
+    ],
+    "scene": [
+      {
+        "en": "party",
+        "zh": "派对"
+      },
+      {
+        "en": "halloween",
+        "zh": "万圣节"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "dark box",
+        "zh": "dark box"
+      },
+      {
+        "en": "uv ink",
+        "zh": "uv ink"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P026",
+    "brand": "Color Street",
+    "product_name": "Vanilla Silk French",
+    "region": "Global",
+    "price_usd": 13.5,
+    "color": [
+      {
+        "en": "vanilla",
+        "zh": "香草白"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "french",
+        "zh": "法式"
+      },
+      {
+        "en": "silk finish",
+        "zh": "丝缎感"
+      }
+    ],
+    "shape": [
+      {
+        "en": "squoval",
+        "zh": "方圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "micro tip",
+        "zh": "微边"
+      }
+    ],
+    "style": [
+      {
+        "en": "clean girl",
+        "zh": "清透干净"
+      }
+    ],
+    "scene": [
+      {
+        "en": "office",
+        "zh": "通勤"
+      },
+      {
+        "en": "wedding",
+        "zh": "婚礼"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "soft pouch",
+        "zh": "soft pouch"
+      },
+      {
+        "en": "minimal",
+        "zh": "minimal"
+      }
+    ],
+    "source": "Pinterest"
+  },
+  {
+    "product_id": "P027",
+    "brand": "OPI",
+    "product_name": "Candy Chrome Mix",
+    "region": "Global",
+    "price_usd": 15.5,
+    "color": [
+      {
+        "en": "candy pink",
+        "zh": "candy pink"
+      },
+      {
+        "en": "silver",
+        "zh": "银色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "chrome",
+        "zh": "镜面"
+      },
+      {
+        "en": "gradient",
+        "zh": "gradient"
+      }
+    ],
+    "shape": [
+      {
+        "en": "coffin",
+        "zh": "棺形"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "ombré",
+        "zh": "渐层"
+      }
+    ],
+    "style": [
+      {
+        "en": "y2k",
+        "zh": "Y2K"
+      },
+      {
+        "en": "fashion",
+        "zh": "时装感"
+      }
+    ],
+    "scene": [
+      {
+        "en": "party",
+        "zh": "派对"
+      },
+      {
+        "en": "weekend",
+        "zh": "周末"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "holo sleeve",
+        "zh": "holo sleeve"
+      },
+      {
+        "en": "pop type",
+        "zh": "pop type"
+      }
+    ],
+    "source": "TikTok"
+  },
+  {
+    "product_id": "P028",
+    "brand": "Essie",
+    "product_name": "Olive Moss Matte",
+    "region": "Europe",
+    "price_usd": 12.49,
+    "color": [
+      {
+        "en": "olive green",
+        "zh": "橄榄绿"
+      },
+      {
+        "en": "khaki",
+        "zh": "khaki"
+      }
+    ],
+    "technique": [
+      {
+        "en": "matte",
+        "zh": "哑光"
+      }
+    ],
+    "shape": [
+      {
+        "en": "round",
+        "zh": "圆形"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "solid color",
+        "zh": "纯色"
+      }
+    ],
+    "style": [
+      {
+        "en": "natural",
+        "zh": "自然"
+      }
+    ],
+    "scene": [
+      {
+        "en": "daily",
+        "zh": "日常"
+      },
+      {
+        "en": "autumn",
+        "zh": "秋季"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "eco box",
+        "zh": "eco box"
+      },
+      {
+        "en": "matte print",
+        "zh": "matte print"
+      }
+    ],
+    "source": "Brand Site"
+  },
+  {
+    "product_id": "P029",
+    "brand": "Ebin New York",
+    "product_name": "Ruby Velvet Bow",
+    "region": "North America",
+    "price_usd": 10.5,
+    "color": [
+      {
+        "en": "ruby red",
+        "zh": "宝石红"
+      },
+      {
+        "en": "black",
+        "zh": "黑色"
+      }
+    ],
+    "technique": [
+      {
+        "en": "velvet",
+        "zh": "丝绒"
+      },
+      {
+        "en": "3d bow",
+        "zh": "3d bow"
+      }
+    ],
+    "shape": [
+      {
+        "en": "almond",
+        "zh": "杏仁"
+      }
+    ],
+    "length": [
+      {
+        "en": "medium",
+        "zh": "中"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "bow motif",
+        "zh": "蝴蝶结"
+      }
+    ],
+    "style": [
+      {
+        "en": "romantic",
+        "zh": "浪漫"
+      },
+      {
+        "en": "holiday",
+        "zh": "节日"
+      }
+    ],
+    "scene": [
+      {
+        "en": "dating",
+        "zh": "约会"
+      },
+      {
+        "en": "christmas",
+        "zh": "圣诞"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "gift box",
+        "zh": "礼盒"
+      },
+      {
+        "en": "bow diecut",
+        "zh": "bow diecut"
+      }
+    ],
+    "source": "Instagram"
+  },
+  {
+    "product_id": "P030",
+    "brand": "Chillhouse",
+    "product_name": "Lemon Spritz Pop",
+    "region": "Global",
+    "price_usd": 16.5,
+    "color": [
+      {
+        "en": "lemon yellow",
+        "zh": "柠檬黄"
+      },
+      {
+        "en": "white",
+        "zh": "white"
+      }
+    ],
+    "technique": [
+      {
+        "en": "swirl art",
+        "zh": "旋涡"
+      }
+    ],
+    "shape": [
+      {
+        "en": "oval",
+        "zh": "椭圆"
+      }
+    ],
+    "length": [
+      {
+        "en": "short",
+        "zh": "短"
+      }
+    ],
+    "pattern": [
+      {
+        "en": "swirl",
+        "zh": "旋纹"
+      }
+    ],
+    "style": [
+      {
+        "en": "playful",
+        "zh": "玩趣"
+      }
+    ],
+    "scene": [
+      {
+        "en": "vacation",
+        "zh": "度假"
+      },
+      {
+        "en": "summer",
+        "zh": "夏季"
+      }
+    ],
+    "packaging": [
+      {
+        "en": "bright carton",
+        "zh": "bright carton"
+      },
+      {
+        "en": "fruit icon",
+        "zh": "fruit icon"
+      }
+    ],
+    "source": "Pinterest"
+  }
+]
