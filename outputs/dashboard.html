@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>穿戴甲设计自动化系统 1.0</title><style>
+<title>穿戴甲美甲设计自动化系统 2.0 总控台</title><style>
 body {font-family:'Segoe UI','Microsoft YaHei',sans-serif;margin:0;background:#f4f6fb;color:#1e2430}.container{max-width:1400px;margin:0 auto;padding:20px}
 .cards{display:grid;grid-template-columns:repeat(7,minmax(120px,1fr));gap:10px;margin-bottom:16px}.card{background:#fff;border-radius:12px;padding:12px;box-shadow:0 2px 8px rgba(0,0,0,.05)}
 .card .label{font-size:12px;color:#667}.card .value{font-size:22px;font-weight:700;margin-top:6px}.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
@@ -9,7 +9,14 @@ th,td{padding:10px 8px;border-bottom:1px solid #edf0f6;font-size:13px;text-align
 .tag{padding:3px 8px;border-radius:999px;color:#fff;font-size:12px}.status-待出图{background:#8a94a8}.status-打样中{background:#f39c12}.status-已确认{background:#2e86de}.status-可量产{background:#27ae60}
 .hot{color:#d63031;font-weight:700}.detail-row td{background:#fcfdff}.detail-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin:8px 0}.block{background:#fff;border:1px solid #e7ebf3;border-radius:8px;padding:8px}
 .block h4{margin:0 0 6px 0;font-size:13px}.block p{margin:0;font-size:12px;line-height:1.6;color:#3a4454}.btns{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}button{border:none;background:#304ffe;color:#fff;border-radius:8px;padding:6px 10px;cursor:pointer}
-</style></head><body><div class="container"><h1>穿戴甲美甲设计自动化系统 1.0</h1><div class="cards" id="metrics"></div>
+</style></head><body><div class="container"><h1>穿戴甲美甲设计自动化系统 2.0 总控台</h1>
+<div class='panel-nav' style='display:grid;grid-template-columns:repeat(5,minmax(160px,1fr));gap:10px;margin-bottom:14px'>
+<a class='card' href='dashboard.html'><div class='label'>SKU产品数据库系统</div><div style='font-size:12px;color:#667'>查看SKU主数据与打样进度</div></a>
+<a class='card' href='#'><div class='label'>包装矩阵系统</div><div style='font-size:12px;color:#667'>包装风格组合与卖点</div></a>
+<a class='card' href='#'><div class='label'>电商上架文案系统</div><div style='font-size:12px;color:#667'>标题、卖点、描述自动生成</div></a>
+<a class='card' href='#'><div class='label'>短视频脚本系统</div><div style='font-size:12px;color:#667'>脚本结构与镜头建议</div></a>
+<a class='card' href='../press-on-global-trend-system/output/press_on_global_trend_system.html'><div class='label'>全球趋势监控系统</div><div style='font-size:12px;color:#667'>查看全球穿戴甲新品趋势、趋势评分、包装方向、设计裂变方案。</div></a>
+</div><div class="cards" id="metrics"></div>
 <div class="toolbar"><input id="searchInput" placeholder="搜索款号/系列/颜色/工艺/场景" style="min-width:280px" />
 <select id="seriesFilter"><option value="">全部系列</option></select><select id="statusFilter"><option value="">全部状态</option><option>待出图</option><option>打样中</option><option>已确认</option><option>可量产</option></select></div>
 <table><thead><tr><th>款号</th><th>系列名</th><th>甲型</th><th>主色</th><th>工艺</th><th>场景</th><th>打样状态</th><th>成本</th><th>建议售价</th><th>毛利率</th><th>综合评分</th></tr></thead><tbody id="tableBody"></tbody></table></div>
