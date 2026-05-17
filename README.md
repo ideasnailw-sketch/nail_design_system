@@ -47,3 +47,7 @@ python scripts/build_dashboard.py
 
 - 每次修改数据库后，按顺序重新执行三个脚本，以刷新提示词与看板。
 - 打开 `outputs/dashboard.html` 即可进行本地运营管理。
+
+## 2.0 执行版升级文档
+
+- 详见 `docs/ecommerce_automation_execution_v2.md`，包含可直接落地的软件化分层架构、MVP 表结构、规则引擎、生命周期触发器、库存与淘汰自动化、30/60/90 天实施路线。
